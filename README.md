@@ -19,3 +19,5 @@ I can't wait to learn more about all of you.
 TJ Anderson:
 Hey there! My name is TJ, and I'm 26. My wife and I have a 1 month old daughter, who has been a wonderful learning experience. I love
 all kinds of games, and I look forward to learning how to handle games a little better. I'm studying Computer Engineering with the intent to go into cyber security. Here's to a great new semester!
+
+This is me changing stuff
