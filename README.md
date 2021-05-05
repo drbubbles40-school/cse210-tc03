@@ -25,6 +25,9 @@ This is me changing stuff
 Chase Patterson:
 Hey everyone, my name is Chase and I'm 24. My wife and I have been married for a little over the year. No kids yet, but we live in Louisiana. I love to play RPG's, my favorte is Skyrim because of the story and gameplay. I'm doing the Applied Technology Major and I'm working on my Associates now and then after working on my Bachelors. I look forward to be able to work with y'all to be able to code and learn from y'all. I know we will have a great semester and I wish y'all luck with everything!
 
+Lucas Gargallo:
+Hey guys, I'm 26, I was born and also currently living in Montevideo, Uruguay with my wife. I have a full-time job as a DBA and BI developer. I love to work on different projects with different kinds of customers, challenging my team and myself each day. I love the way that we make our "customer's dreams true", it's a fantastic profession that I could work my entire life. I like to watch movies and series, I love biking and cooking in my free time.
+
 Kyle Ames
 My name is Kyle Ames and I am from Puyallup, Washington, USA. I am a proud father of 3, 
 and humble husband to 1. My wife and I like to say that I wear the pants in the relationship, 
