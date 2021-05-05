@@ -32,4 +32,3 @@ just after I ask for permission! But in all seriousness, I work for a telecommun
 contractor and I am continuing my education to not only provide myself a backup option if my 
 career fails, but also acquiring a skill that I find fascinating. I am very big into board 
 games(not your standard Monopoly and Scrabble), and since last July, Disc Golfing.
-
