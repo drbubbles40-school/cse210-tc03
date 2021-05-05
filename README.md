@@ -25,4 +25,11 @@ This is me changing stuff
 Chase Patterson:
 Hey everyone, my name is Chase and I'm 24. My wife and I have been married for a little over the year. No kids yet, but we live in Louisiana. I love to play RPG's, my favorte is Skyrim because of the story and gameplay. I'm doing the Applied Technology Major and I'm working on my Associates now and then after working on my Bachelors. I look forward to be able to work with y'all to be able to code and learn from y'all. I know we will have a great semester and I wish y'all luck with everything!
 
+Kyle Ames
+My name is Kyle Ames and I am from Puyallup, Washington, USA. I am a proud father of 3, 
+and humble husband to 1. My wife and I like to say that I wear the pants in the relationship, 
+just after I ask for permission! But in all seriousness, I work for a telecommunications 
+contractor and I am continuing my education to not only provide myself a backup option if my 
+career fails, but also acquiring a skill that I find fascinating. I am very big into board 
+games(not your standard Monopoly and Scrabble), and since last July, Disc Golfing.
 
