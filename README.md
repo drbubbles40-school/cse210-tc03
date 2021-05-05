@@ -20,5 +20,9 @@ TJ Anderson:
 Hey there! My name is TJ, and I'm 26. My wife and I have a 1 month old daughter, who has been a wonderful learning experience. I love
 all kinds of games, and I look forward to learning how to handle games a little better. I'm studying Computer Engineering with the intent to go into cyber security. Here's to a great new semester!
 
+This is me changing stuff
+
 Chase Patterson:
 Hey everyone, my name is Chase and I'm 24. My wife and I have been married for a little over the year. No kids yet, but we live in Louisiana. I love to play RPG's, my favorte is Skyrim because of the story and gameplay. I'm doing the Applied Technology Major and I'm working on my Associates now and then after working on my Bachelors. I look forward to be able to work with y'all to be able to code and learn from y'all. I know we will have a great semester and I wish y'all luck with everything!
+
+
