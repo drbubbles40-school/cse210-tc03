@@ -27,3 +27,11 @@ Hey everyone, my name is Chase and I'm 24. My wife and I have been married for a
 
 Lucas Gargallo:
 Hey guys, I'm 26, I was born and also currently living in Montevideo, Uruguay with my wife. I have a full-time job as a DBA and BI developer. I love to work on different projects with different kinds of customers, challenging my team and myself each day. I love the way that we make our "customer's dreams true", it's a fantastic profession that I could work my entire life. I like to watch movies and series, I love biking and cooking in my free time.
+
+Kyle Ames
+My name is Kyle Ames and I am from Puyallup, Washington, USA. I am a proud father of 3, 
+and humble husband to 1. My wife and I like to say that I wear the pants in the relationship, 
+just after I ask for permission! But in all seriousness, I work for a telecommunications 
+contractor and I am continuing my education to not only provide myself a backup option if my 
+career fails, but also acquiring a skill that I find fascinating. I am very big into board 
+games(not your standard Monopoly and Scrabble), and since last July, Disc Golfing.
